@@ -1,0 +1,3 @@
+OAuth Client Information
+Client ID --> 767778347515-k1caog91e2ipsmdn12s57vdl716igej7.apps.googleusercontent.com
+Client Secret --> IzAyeG_f1nWMYHjzVaQ_nqHz
